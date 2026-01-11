@@ -1,0 +1,1 @@
+Enterprise-grade MCP (Model Context Protocol) server for detecting secrets and sensitive information in GitHub repositories. Scans for 35+ types of secrets including API keys, passwords, tokens, and credentials with production-ready reliability features.

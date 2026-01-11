@@ -41,12 +41,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/leak-secure-mcp.git"
+    "url": "https://github.com/cbuntingde/leak-secure-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/leak-secure-mcp/issues"
+    "url": "https://github.com/cbuntingde/leak-secure-mcp/issues"
   },
-  "homepage": "https://github.com/yourusername/leak-secure-mcp#readme",
+  "homepage": "https://github.com/cbuntingde/leak-secure-mcp#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.5.0",
     "@octokit/rest": "^20.0.2",
