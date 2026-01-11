@@ -1,0 +1,17 @@
+src/
+*.ts
+!*.d.ts
+tsconfig.json
+.eslintrc.json
+.gitignore
+.env
+.env.local
+*.log
+.DS_Store
+*.tsbuildinfo
+coverage/
+.idea/
+.vscode/
+node_modules/
+*.test.ts
+*.spec.ts
